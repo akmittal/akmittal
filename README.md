@@ -11,7 +11,7 @@
   - Watch TV Channels live https://dashtv.in
   - Blog https://akmittal.dev
 
-[![Amit's github stats](https://github-readme-stats.vercel.app/api?username=akmittal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmittal&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 

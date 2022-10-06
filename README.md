@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Twitter](http://twitter.com/ak_mittal)
 - Personal Projects 
   - Search for packages in unpkg repo https://unpkg.webutils.app
-  - Webutilso https://www.webutils.app
+  - Webutils https://www.webutils.app
   - Watch TV Channels live https://dashtv.in
   - Blog https://akmittal.dev
 

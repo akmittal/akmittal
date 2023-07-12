@@ -3,12 +3,10 @@
 
 - 🔭 I’m currently working at Twilio
 - 🌱 I’m currently learning Flutter, Golang
-- 👯 I’m currently working with JavaScript, TypeScript
-- 📫 How to reach me: [Twitter](http://twitter.com/ak_mittal)
+- 👯 I’m currently working with JavaScript, TypeScript, React, Nodejs, Nextjs
+- 📫 How to reach me: [Twitter](http://twitter.com/ak_mittal) [LinkedIn](https://www.linkedin.com/in/amitkmittal/) 
 - Personal Projects 
-  - Search for packages in unpkg repo https://unpkg.webutils.app
   - Webutils https://www.webutils.app
-  - Watch TV Channels live https://dashtv.in
   - Blog https://akmittal.dev
 
 

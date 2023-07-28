@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working at Twilio
-- 🌱 I’m currently learning Flutter, Golang
 - 👯 I’m currently working with JavaScript, TypeScript, React, Nodejs, Nextjs
 - 📫 How to reach me: [Twitter](http://twitter.com/ak_mittal) [LinkedIn](https://www.linkedin.com/in/amitkmittal/) 
 - Personal Projects 
